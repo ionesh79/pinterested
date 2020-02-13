@@ -1,10 +1,14 @@
 
 <div class="jumbotron center">
-  <h1>Welcome To My Pinterest App</h1>
-  <p>Go ahead, interact with the app! Have Fun!! Drop us a line if you like to be involved!</p>
+  <h1>Welcome To A Better Pinterest</h1>
+  <p>Go ahead, interact with the images! Have Fun!! Don't forget to drop us a line if you like the app!</p>
 
-
-  <%= link_to "Login", new_user_session_path, class: 'btn btn-default' %>
-  <%= link_to "Join", new_user_registration_path, class: 'btn btn-primary' %>
+  <% if user_signed_in? %>
+    <%= link_to 'Logout', destroy_user_session_path, method: :delete, class: 'btn btn-primary' %>
+    <%= link_to 'Edit Profile', edit_user_registration_path, class: "btn btn-default" %>
+  <% else %>
+    <%= link_to "Login", new_user_session_path, class: 'btn btn-default' %>
+    <%= link_to "Join", new_user_registration_path, class: 'btn btn-primary' %>
+  <%end %>
 
 </div>
