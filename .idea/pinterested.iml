@@ -41,8 +41,12 @@
     <orderEntry type="library" scope="PROVIDED" name="activesupport (v6.0.2.1, RVM: ruby-2.6.3 [global]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="addressable (v2.7.0, RVM: ruby-2.6.3 [global]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="autoprefixer-rails (v9.7.4, RVM: ruby-2.6.3 [global]) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="aws-sdk (v1.67.0, RVM: ruby-2.6.3 [global]) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="aws-sdk-v1 (v1.67.0, RVM: ruby-2.6.3 [global]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="aws-eventstream (v1.0.3, RVM: ruby-2.6.3 [global]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="aws-partitions (v1.273.0, RVM: ruby-2.6.3 [global]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="aws-sdk-core (v3.90.0, RVM: ruby-2.6.3 [global]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="aws-sdk-kms (v1.29.0, RVM: ruby-2.6.3 [global]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="aws-sdk-s3 (v1.60.2, RVM: ruby-2.6.3 [global]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="aws-sigv4 (v1.1.0, RVM: ruby-2.6.3 [global]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="bcrypt (v3.1.13, RVM: ruby-2.6.3 [global]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="bindex (v0.8.1, RVM: ruby-2.6.3 [global]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="bootsnap (v1.4.5, RVM: ruby-2.6.3 [global]) [gem]" level="application" />
@@ -62,8 +66,8 @@
     <orderEntry type="library" scope="PROVIDED" name="globalid (v0.4.2, RVM: ruby-2.6.3 [global]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="i18n (v1.8.2, RVM: ruby-2.6.3 [global]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="jbuilder (v2.10.0, RVM: ruby-2.6.3 [global]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="jmespath (v1.4.0, RVM: ruby-2.6.3 [global]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="jquery-rails (v4.3.5, RVM: ruby-2.6.3 [global]) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="json (v1.8.6, RVM: ruby-2.6.3 [global]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="listen (v3.1.5, RVM: ruby-2.6.3 [global]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="loofah (v2.4.0, RVM: ruby-2.6.3 [global]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="mail (v2.7.1, RVM: ruby-2.6.3 [global]) [gem]" level="application" />
